@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="559" height="388" src="media/logo.png" alt="Awesome IBM Cloud">
+</div>
+
 # Awesome IBM Cloud
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
