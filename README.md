@@ -16,30 +16,11 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
     - [Cloud Foundry](#cloud-foundry)
     - [Softlayer](#softlayer)
     - [Watson](#watson)
-
-- [Getting Started Guides](https;//github.com/victorshinya/awesome-ibmcloud/blob/master/README.md#getting-started-guides)
-    - [Getting Started with IBM Cloud](#getting-started-with-ibm-cloud)
-
+- [Getting Started Guides](#getting-started-guides)
 - [Command Line Tools](#command-line-tools)
-    - [Universal Command Line Interface](#universal-command-line-interface)
-    - [Windows 64 bit](#windows-64-bit)
-    - [Windows 32 bit](#windows-32-bit)
-
 - [Resources](#resources)
-    - [Documentation](#documentation)
-    - [IBM Cloud Blog](#ibm-cloud-blog)
-    - [IBM Developer Brasil on Medium](#ibm-developer-brasil-on-medium)
-    - [IBM Developer Website](#ibm-developer-website)
-    - [IBM Watson on Medium](#ibm-watson-on-medium)
-
 - [Youtube Channels](#youtube-channels)
-    - [IBM Developer](#ibm-developer)
-    - [IBM Watson](#ibm-watson)
-    - [IBM Watson Internet of Things](#ibm-watson-internet-of-things)
-    - [Sergio Gama](#sergio-gama)
-
 - [Contributing](#contributing)
-
 - [Contact](#contact)
 
 
