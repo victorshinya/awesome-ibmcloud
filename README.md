@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="559" height="388" src="media/logo.png" alt="Awesome IBM Cloud">
+    <img width="559" height="388" src="https://github.com/victorshinya/awesome-ibmcloud/blob/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
 </div>
 
 # Awesome IBM Cloud

@@ -1,0 +1,4 @@
+package: github.com/victorshinya/awesome-ibmcloud
+import:
+- package: github.com/gorilla/mux
+- package: github.com/shurcooL/github_flavored_markdown

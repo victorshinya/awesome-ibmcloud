@@ -1,0 +1,11 @@
+---
+applications:
+- name: awesome-ibmcloud
+  buildpack: https://github.com/cloudfoundry/go-buildpack
+  path: .
+  memory: 128M
+  instances: 1
+  command: awesome-ibmcloud
+  env:
+    GOVERSION: go1.10
+    GOPACKAGENAME: github.com/victorshinya/awesome-ibmcloud

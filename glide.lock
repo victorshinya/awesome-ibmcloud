@@ -1,0 +1,36 @@
+hash: ce764581d52c84749058b6a96dbea86077980db0fc71a7d60a789ea0de666673
+updated: 2019-01-02T01:38:48.467714-02:00
+imports:
+- name: github.com/gorilla/mux
+  version: ef912dd76ebe9d9848c6e0fd80eaebccc9a11631
+- name: github.com/microcosm-cc/bluemonday
+  version: 506f3da9b7c86d737e91f16b7431df8635871552
+- name: github.com/russross/blackfriday
+  version: abafa45cd843f4f4935c29a2e8f3d73a01820fc3
+- name: github.com/sergi/go-diff
+  version: da645544ed44df016359bd4c0e3dc60ee3a0da43
+  subpackages:
+  - diffmatchpatch
+- name: github.com/shurcooL/github_flavored_markdown
+  version: 2122de53247006a637e59cf1c99d0770312d4be3
+- name: github.com/shurcooL/highlight_diff
+  version: 111da2e7d480d1ae2e33d64cd6b19530db117002
+- name: github.com/shurcooL/highlight_go
+  version: 9d8641ddf2e1517d286cedf0f4f4a6fb41ef5043
+  subpackages:
+  - internal/go/scanner
+  - internal/go/token
+- name: github.com/shurcooL/octicon
+  version: 9ff1a4cf27f4a918862c3ffbd24371b3aed18f9d
+- name: github.com/shurcooL/sanitized_anchor_name
+  version: 7bfe4c7ecddb3666a94b053b422cdd8f5aaa3615
+- name: github.com/sourcegraph/annotate
+  version: f4cad6c6324d3f584e1743d8b3e0e017a5f3a636
+- name: github.com/sourcegraph/syntaxhighlight
+  version: bd320f5d308e1a3c4314c678d8227a0d72574ae7
+- name: golang.org/x/net
+  version: 927f97764cc334a6575f4b7a1584a147864d5723
+  subpackages:
+  - html
+  - html/atom
+testImports: []
