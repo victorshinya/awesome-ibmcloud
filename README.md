@@ -33,6 +33,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
 * [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
 * [IBM Cloud Go](https://github.com/IBM-Cloud/bluemix-go): Go library for accessing the IBM Cloud API.
+* [insurance-bot](https://github.com/IBM-Cloud/insurance-bot): A message based insurance experience.
 * [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter): Kitura-based server starter application for the IBM Cloud.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard): The Logistics Wizard is an end-to-end, smart supply chain management solution.
 
