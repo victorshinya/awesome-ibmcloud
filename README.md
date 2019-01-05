@@ -36,6 +36,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Softlayer
 
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm): Terraform IBM provide.
+
 ## Watson
 
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model
