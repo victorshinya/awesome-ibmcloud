@@ -26,13 +26,14 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Cloud Functions
 
-* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions
+* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 
 ## Cloud Foundry
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
 * [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
+* [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter): Kitura-based server starter application for the IBM Cloud.
 
 ## Softlayer
 
@@ -40,8 +41,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Watson
 
-* [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model
-* [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model
+* [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
+* [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
 
 ## Getting Started Guides
 
