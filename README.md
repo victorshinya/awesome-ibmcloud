@@ -65,6 +65,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 * [Documentation](https://cloud.ibm.com/docs): Learn more about a specific service reading the service's documentation.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix): How-tos, news, and announcements for IBM Cloud.
+* [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/): Stay up to date with the latest on IBM Cloud products and services.
 * [IBM Developer Brasil on Medium](): How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Developer Website](https://developer.ibm.com): Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
 * [IBM Watson on Medium](https://medium.com/ibm-watson): How-tos, news, and announcements for IBM Watson on Medium.
