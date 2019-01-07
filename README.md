@@ -42,7 +42,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Softlayer
 
-* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm): Terraform IBM provide.
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm): Terraform IBM Cloud provider.
 
 ## Watson
 
