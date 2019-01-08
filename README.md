@@ -49,6 +49,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android): An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
+* [Watson Developer Cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
+* [IBM Watson IoT](ttps://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
 
 ## Getting Started Guides
 
