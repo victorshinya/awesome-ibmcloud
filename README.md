@@ -47,10 +47,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 ## Watson
 
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android): An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
+* [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
+* [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
-* [Watson Developer Cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-* [IBM Watson IoT](ttps://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
 
 ## Getting Started Guides
 
@@ -58,11 +58,11 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Command Line Tools
 
+* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release): This is the command line client for IBM Cloud.
+* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/): A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
 * [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use): IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
 * [Windows 64 bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64): Command Line Interface for Windows 64 bit.
 * [Windows 32 bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases): Command Line Interface for Windows 32 bit and earlier versions.
-* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release): This is the command line client for IBM Cloud.
-* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/): A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
 
 ## Resources
 
