@@ -4,6 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
+	"os/exec"
 	"text/template"
 
 	"github.com/gorilla/mux"
@@ -23,6 +24,9 @@ type content struct {
 func main() {
 	r := mux.NewRouter()
 	r.HandleFunc("/generate", func(w http.ResponseWriter, r *http.Request) {
+		exec.Command("git checkout -f").Output()
+		exec.Command("git pull").Output()
+
 		input, _ := ioutil.ReadFile(readmePath)
 		body := string(gfm.Markdown(input))
 		c := &content{Body: body}
