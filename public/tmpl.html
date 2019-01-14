@@ -12,6 +12,8 @@
             margin: 0 auto;
             padding: 0;
             font-family: 'Roboto', sans-serif;
+            font-size: 1rem;
+            text-decoration: none;
         }
 
         .content {
@@ -29,8 +31,23 @@
         }
 
         a {
-            text-decoration: none;
             color: rgb(66, 103, 224);
+        }
+
+        @media screen and (max-width: 600px) {
+            .content {
+                margin: 30px;
+            }
+
+            img {
+                width: 260px;
+                height: auto;
+            }
+
+            p img {
+                width: auto;
+                height: 20px;
+            }
         }
     </style>
 </head>
