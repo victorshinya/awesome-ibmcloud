@@ -21,20 +21,24 @@ type content struct {
 	Body string
 }
 
+func generateHandler(w http.ResponseWriter, r *http.Request) {
+	// Pull the latest Git version
+	exec.Command("git checkout -f").Output()
+	exec.Command("git pull").Output()
+
+	// Generate index.html file
+	input, _ := ioutil.ReadFile(readmePath)
+	body := string(gfm.Markdown(input))
+	c := &content{Body: body}
+	t := template.Must(template.ParseFiles(tmplPath))
+	f, _ := os.Create(indexPath)
+	t.Execute(f, c)
+	w.Write([]byte("Page generated"))
+}
+
 func main() {
 	r := mux.NewRouter()
-	r.HandleFunc("/generate", func(w http.ResponseWriter, r *http.Request) {
-		exec.Command("git checkout -f").Output()
-		exec.Command("git pull").Output()
-
-		input, _ := ioutil.ReadFile(readmePath)
-		body := string(gfm.Markdown(input))
-		c := &content{Body: body}
-		t := template.Must(template.ParseFiles(tmplPath))
-		f, _ := os.Create(indexPath)
-		t.Execute(f, c)
-		w.Write([]byte("Page generated"))
-	})
+	r.HandleFunc("/generate", generateHandler)
 	fs := http.FileServer(http.Dir("public"))
 	r.Handle("/", fs)
 
