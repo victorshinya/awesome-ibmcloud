@@ -32,22 +32,22 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
 * [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
-* [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go): Go library for accessing the IBM Cloud API.
-* [insurance-bot](https://github.com/IBM-Cloud/insurance-bot): A message based insurance experience.
-* [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter): Kitura-based server starter application for the IBM Cloud.
-* [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard): The Logistics Wizard is an end-to-end, smart supply chain management solution.
-* [multiple-deployment-options](https://github.com/IBM-Cloud/multiple-deployment-options): Shows how one service can be deployed to multiple deployment options.
-* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive): Node.js Controller and MQTT API for Anki Overdrive.
-* [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables): Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
+* [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
+* [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
+* [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud.
+* [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution.
+* [multiple-deployment-options](https://github.com/IBM-Cloud/multiple-deployment-options) - Shows how one service can be deployed to multiple deployment options.
+* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
+* [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
 
 ## Softlayer
 
-* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm): Terraform IBM Cloud provider.
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
 
 ## Watson
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant api.
-* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android): An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
+* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
     * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕.NET Standard library to access Watson Services.
@@ -64,31 +64,31 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Getting Started Guides
 
-* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html): What is the IBM Cloud platform?
+* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - What is the IBM Cloud platform?
 
 ## Command Line Tools
 
-* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release): This is the command line client for IBM Cloud.
-* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/): A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
-* [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use): IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
-* [Windows 64 bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64): Command Line Interface for Windows 64 bit.
-* [Windows 32 bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases): Command Line Interface for Windows 32 bit and earlier versions.
+* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
+* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
+* [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
+* [Windows 64 bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64 bit.
+* [Windows 32 bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) - Command Line Interface for Windows 32 bit and earlier versions.
 
 ## Resources
 
-* [Documentation](https://cloud.ibm.com/docs): Learn more about a specific service reading the service's documentation.
-* [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix): How-tos, news, and announcements for IBM Cloud.
-* [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/): Stay up to date with the latest on IBM Cloud products and services.
-* [IBM Developer Brasil on Medium](): How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
-* [IBM Developer Website](https://developer.ibm.com): Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
-* [IBM Watson on Medium](https://medium.com/ibm-watson): How-tos, news, and announcements for IBM Watson on Medium.
+* [Documentation](https://cloud.ibm.com/docs) - Learn more about a specific service reading the service's documentation.
+* [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
+* [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
+* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
+* [IBM Developer Website](https://developer.ibm.com) - Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
+* [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
 
 ## Youtube Channels
 
-* [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA): Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
-* [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg): Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
-* [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA): Videos about Watson services and IoT platform, interviews, educational clips, and more.
-* [Sergio Gama](https://www.youtube.com/sergiogama): Learn how to use Watson services in Brazilian Portuguese.
+* [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
+* [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
+* [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) - Videos about Watson services and IoT platform, interviews, educational clips, and more.
+* [Sergio Gama](https://www.youtube.com/sergiogama) - Learn how to use Watson services in Brazilian Portuguese.
 
 ## Contributing
 
