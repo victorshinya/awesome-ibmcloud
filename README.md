@@ -49,6 +49,15 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android): An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
+    * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕.NET Standard library to access Watson Services.
+    * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 go SDK for the IBM Watson services.
+    * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
+    * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services.
+    * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
+    * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) - ♦️ Ruby SDK to use the IBM Watson services.
+    * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) - A Salesforce library for communicating with the IBM Watson REST APIs.
+    * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
+    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
 
