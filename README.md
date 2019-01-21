@@ -2,33 +2,30 @@
     <img width="559" height="388" src="https://github.com/victorshinya/awesome-ibmcloud/blob/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
 </div>
 
-# Awesome IBM Cloud
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
 
-A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) list.
+A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
 
 ## Contents
 
-- [Awesome IBM Cloud](#awesome-ibm-cloud)
-    - [Cloud Functions](#cloud-functions)
-    - [Cloud Foundry](#cloud-foundry)
-    - [Softlayer](#softlayer)
-    - [Watson](#watson)
+- [IBM Cloud Functions](#ibm-cloud-functions)
+- [IBM Cloud Foundry](#ibm-cloud-foundry)
+- [IBM Softlayer](#ibm-softlayer)
+- [IBM Watson](#ibm-watson)
 - [Getting Started Guides](#getting-started-guides)
 - [Command Line Tools](#command-line-tools)
 - [Resources](#resources)
-- [Youtube Channels](#youtube-channels)
+- [YouTube Channels](#youtube-channels)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Cloud Functions
+## IBM Cloud Functions
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 
-## Cloud Foundry
+## IBM Cloud Foundry
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
 * [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
@@ -40,19 +37,19 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
 
-## Softlayer
+## IBM Softlayer
 
 * [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
 
-## Watson
+## IBM Watson
 
-* [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant api.
+* [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API.
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml): Classify images offline using Watson Visual Recognition and Core ML.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-    * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕.NET Standard library to access Watson Services.
-    * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 go SDK for the IBM Watson services.
+    * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕 .NET Standard library to access Watson Services.
+    * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services.
     * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
     * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services.
     * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
@@ -72,8 +69,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
 * [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
-* [Windows 64 bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64 bit.
-* [Windows 32 bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) - Command Line Interface for Windows 32 bit and earlier versions.
+* [Windows 64-bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
+* [Windows 32-bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) - Command Line Interface for Windows 32-bit and earlier versions.
 
 ## Resources
 
@@ -84,7 +81,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Developer Website](https://developer.ibm.com) - Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
 
-## Youtube Channels
+## YouTube Channels
 
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
@@ -99,4 +96,4 @@ If you want to contribute, feel free to submit your Pull Request or create a new
 
 ## Contact
 
-Feel free to contact me for any discussion, question, or comment. You can find on my [Github page](https://github.com/victorshinya) or you can talk to me on [Twitter](https://twitter.com/victorshinya).
+Feel free to contact me for any discussion, question, or comment. You can find on my [GitHub page](https://github.com/victorshinya) or you can talk to me on [Twitter](https://twitter.com/victorshinya).
