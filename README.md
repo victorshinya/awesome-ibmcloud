@@ -54,6 +54,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services.
 * [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) - A collection of nodes for the IBM Watson services.
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
+* [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
 * [simple-chat-swift](https://github.com/watson-developer-cloud/simple-chat-swift) - 📱 An iOS chat application using cognitive services from the Watson Developer Cloud Swift SDK.
 * [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
