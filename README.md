@@ -55,6 +55,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
+    * [android-sdk](https://github.com/watson-developer-cloud/android-sdk) - 🔆 Android SDK to use the IBM Watson services.
     * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕 .NET Standard library to access Watson Services.
     * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services.
     * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
