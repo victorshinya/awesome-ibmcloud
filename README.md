@@ -57,6 +57,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [simple-chat-swift](https://github.com/watson-developer-cloud/simple-chat-swift) - 📱 An iOS chat application using cognitive services from the Watson Developer Cloud Swift SDK.
 * [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
+* [tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) - Sample Node.js Application for the IBM Tone Analyzer Service.
 * [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
