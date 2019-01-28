@@ -62,6 +62,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
     * [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services.
     * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
     * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services.
+    * [openwhisk-sdk](https://github.com/watson-developer-cloud/openwhisk-sdk) - 🆕 SDK for using Watson Services on IBM Cloud Functions (based on Apache Openwhisk).
     * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
     * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) - ♦️ Ruby SDK to use the IBM Watson services.
     * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) - A Salesforce library for communicating with the IBM Watson REST APIs.
