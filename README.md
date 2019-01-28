@@ -44,6 +44,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 ## IBM Watson
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API.
+* [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) - A middleware to connect Watson Assistant Service to different chat channels using Botkit.
 * [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
