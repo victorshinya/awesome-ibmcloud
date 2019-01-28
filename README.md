@@ -67,6 +67,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
     * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
+* [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.
 
 ## Getting Started Guides
 
