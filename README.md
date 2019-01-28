@@ -49,6 +49,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
 * [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) - A collection of nodes for the IBM Watson services.
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
+* [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
 * [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML.
