@@ -13,6 +13,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [IBM Cloud Foundry](#ibm-cloud-foundry)
 - [IBM Softlayer](#ibm-softlayer)
 - [IBM Watson](#ibm-watson)
+- [Carbon Design System](#carbon-design-system)
 - [Getting Started Guides](#getting-started-guides)
 - [Command Line Tools](#command-line-tools)
 - [Resources](#resources)
@@ -76,6 +77,18 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.
+
+## Carbon Design System
+
+* [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
+* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
+* [carbon-components](https://github.com/IBM/carbon-components) - The component library behind the Carbon Design System.
+* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+* [carbon-components-react](https://github.com/IBM/carbon-components-react) - React components for the Carbon Design System.
+* [carbon-design-kit](https://github.com/IBM/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+* [carbon-elements](https://github.com/IBM/carbon-elements) - Carbon Elements helps developers execute the IBM Design Language in digital and software products.
+* [carbon-icons](https://github.com/IBM/carbon-icons) - SVG icon library for the Carbon Design System.
+
 
 ## Getting Started Guides
 
