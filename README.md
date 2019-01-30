@@ -25,6 +25,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
+* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
 
 ## IBM Cloud Foundry
 
