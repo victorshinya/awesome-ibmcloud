@@ -23,8 +23,6 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## IBM Cloud Functions
 
-* [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
-* [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
@@ -35,6 +33,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
+* [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
+* [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
 * [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [multiple-deployment-options](https://github.com/IBM-Cloud/multiple-deployment-options) - Shows how one service can be deployed to multiple deployment options.
