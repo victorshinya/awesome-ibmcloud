@@ -34,6 +34,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
 * [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
+* [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) - A pluggable framework for validating user credentials in a Swift server using Kitura.
 * [kitura-credentials-google](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login.
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
 * [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - A networking library for Kitura, based on SwiftNIO.
