@@ -38,6 +38,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
 * [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - A networking library for Kitura, based on SwiftNIO.
 * [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
+* [kitura-session](https://github.com/IBM-Swift/Kitura-Session) - A pluggable framework for managing user sessions in a Swift server using Kitura.
 * [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud.
 * [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution.
 * [multiple-deployment-options](https://github.com/IBM-Cloud/multiple-deployment-options) - Shows how one service can be deployed to multiple deployment options.
