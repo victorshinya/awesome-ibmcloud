@@ -30,7 +30,6 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 ## IBM Cloud Foundry
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
-* [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
@@ -49,6 +48,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) - Docker image packaged with the Swift binaries.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
 * [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
+* [webiste-base](https://github.com/victorshinya/website-base) - Deploy your website using a Node.js server.
 
 ## IBM Softlayer
 
