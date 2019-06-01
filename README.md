@@ -98,7 +98,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
 * [carbon-components](https://github.com/IBM/carbon-components) - The component library behind the Carbon Design System.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-* [carbon-components-react](https://github.com/IBM/carbon-components-react) - React components for the Carbon Design System.
+* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
 * [carbon-design-kit](https://github.com/IBM/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-elements](https://github.com/IBM/carbon-elements) - Carbon Elements helps developers execute the IBM Design Language in digital and software products.
 * [carbon-icons](https://github.com/IBM/carbon-icons) - SVG icon library for the Carbon Design System.
