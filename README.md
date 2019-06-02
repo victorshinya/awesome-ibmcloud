@@ -3,7 +3,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
+[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 
 A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
 
@@ -45,9 +45,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 * [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
-* [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
-* [Windows 64-bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
-* [Windows 32-bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) - Command Line Interface for Windows 32-bit and earlier versions.
+* [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
+* [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
 
 ## Infrastructure
 
