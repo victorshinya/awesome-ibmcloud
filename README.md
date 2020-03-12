@@ -146,6 +146,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Watch and learn more about IBM Cloud and services.*
 
+* [Digital Technical Engagement](https://www.youtube.com/channel/UCrVRMfpe968pW8vBU_hzplA) - Demos of Cloud offerings. For more information, check out http://ibm.biz/dte-live.
 * [IBM Cloud](https://www.youtube.com/ibmcloud) - The path to cloud is faster than you think. Join the cloud built for your business that has the tools, data and APIs to make AI real today. It’s your cloud. We protect it. You control it.
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
