@@ -30,7 +30,6 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon components.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
