@@ -25,7 +25,6 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
 * [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
-* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) - Carbon Design System add-on for IBM Cloud.
 * [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom) - This library is an extension of the Carbon IBM Design System. It contains unique components shared between the IBM.com user journeys to unify its look and feel.
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
