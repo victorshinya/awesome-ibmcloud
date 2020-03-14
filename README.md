@@ -34,7 +34,6 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) - Carbon icons, in Angular!
-* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - A collection of themes for use with Carbon Components.
 * [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 * [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
