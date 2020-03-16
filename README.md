@@ -141,6 +141,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures) - IBM's architectures provide practices for building apps on the cloud. The reference architectures define the basic pattern, while implementations provide specific technology, practices, and tool choices to build and deploy that pattern.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
 * [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
+* [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Developer Website](https://developer.ibm.com) - Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
