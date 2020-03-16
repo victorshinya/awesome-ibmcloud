@@ -143,6 +143,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
 * [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
+* [IBM Demos](https://www.ibm.com/demos/) -  IBM Demos is the premiere destination to explore, learn, and try out a variety of IBM products and solutions.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Developer Website](https://developer.ibm.com) - Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method) - Foundational to the IBM Garage is a unique methodology that curates industry best practices layered with a depth of experience only IBM can bring. The IBM Garage combined with the IBM Garage Methodology can drive unprecedented transformational change.
