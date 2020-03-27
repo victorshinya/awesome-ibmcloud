@@ -172,6 +172,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Research](https://twitter.com/IBMResearch) - This is the official Twitter ID of IBM Research. The account is managed by Chris Sciacca, and follows the IBM Social Computing Guidelines.
 * [IBM Watson](https://twitter.com/IBMWatson) - Watson is AI for professionals, designed for your business.
 * [IBM Watson Health](https://twitter.com/IBMWatsonHealth) - Watson Health is Smarter Health – Using data, analytics and #IBM technologies and services to help make smarter health a reality.
+* [IBM Watson IoT](https://twitter.com/IBMIoT) - Intelligence is your greatest asset. Follow us for the latest on insightful #IIoT solutions using #AI. Official IBM #IoT, managed by @theRab & @graemeknows.
 * [IBM Watson Media](https://twitter.com/IBMWatsonMedia) - IBM Watson Media leverages industry-leading AI to uncover deep video insights, improve content value and performance, and deliver superior viewing experiences.
 
 ## Contributing
