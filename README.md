@@ -172,6 +172,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Data and AI](https://twitter.com/IBMData) - The IBM tools, resources and industry news you need to get the most value from your #data and make it truly #AI-ready. For Support: https://ibm.com/mysupport.
 * [IBM Design](https://twitter.com/ibmdesign) - At IBM, design isn’t just a job—it’s a deep responsibility to the people we serve. Managed by @willfanguy per IBM’s guidelines.
 * [IBM Developer](https://twitter.com/IBMDeveloper) - Open source, code patterns, tutorials, meet-ups, challenges, & a global coding community— #IBMDeveloper has it all in one place. #AI #Cloud #Blockchain.
+* [IBM FinTech](https://twitter.com/IBMFinTech) - 👁️🐝Ⓜ Official account managed by Claudia Masseo. All the latest on RegTech, Payments, SPM, Insurance and Banking.💸.
 * [IBM Industries](https://twitter.com/IBMindustries) - Download Industrious Magazine issue 8 today: https://ibm.co/industrious.
 * [IBM iX](https://twitter.com/IBM_iX) - We imagine the businesses of the future — and help our clients make them real. Follows IBM Social Guidelines.
 * [IBM Live](https://twitter.com/ibmlive) - Your home for #IBM's immersive event experiences. Learn more about our upcoming worldwide events. Managed by Rafiat K and Ixel M. Follows IBM Social Guidelines.
