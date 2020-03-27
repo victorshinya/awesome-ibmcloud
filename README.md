@@ -19,6 +19,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [Watson](#watson)
 - [Resources](#resources)
 - [YouTube Channels](#youtube-channels)
+- [Twitter Accounts](#twitter-accounts)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -161,6 +162,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
 * [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) - Videos about Watson services and IoT platform, interviews, educational clips, and more.
+
+## Twitter Accounts
+
+* [IBM](https://twitter.com/IBM) - Together with our clients, we're using technologies like AI, cloud, blockchain & IoT to transform business, industries and the world. Let’s put smart to work.
 
 ## Contributing
 
