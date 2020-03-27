@@ -184,6 +184,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Sterling Supply Chain](https://twitter.com/IBMSupplyChain) - #SupplyChain and #B2BCollaboration news & innovation from #IBMSterling. We help you build smarter business networks. Follows IBM Social Computing Guidelines.
 * [IBM Storage](https://twitter.com/IBMStorage) - Capture the power of data w/ one of the industry’s broadest portfolios of storage solutions to unify, manage, protect data across multicloud & AI environments.
 * [IBM Systems](https://twitter.com/IBMSystems) - From servers and mainframes to storage systems and software, IBM provides the building blocks of a next-gen #ITinfrastructure that empowers your enterprise.
+* [IBM thinkLeaders](https://twitter.com/IBMthinkLeaders) - Thought leadership on transformation & innovation in a digital age. Check out our podcast: https://ibm.biz/thinkpoditunes.
 * [IBM Watson](https://twitter.com/IBMWatson) - Watson is AI for professionals, designed for your business.
 * [IBM Watson Health](https://twitter.com/IBMWatsonHealth) - Watson Health is Smarter Health – Using data, analytics and #IBM technologies and services to help make smarter health a reality.
 * [IBM Watson IoT](https://twitter.com/IBMIoT) - Intelligence is your greatest asset. Follow us for the latest on insightful #IIoT solutions using #AI. Official IBM #IoT, managed by @theRab & @graemeknows.
