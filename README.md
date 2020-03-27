@@ -166,6 +166,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 ## Twitter Accounts
 
 * [IBM](https://twitter.com/IBM) - Together with our clients, we're using technologies like AI, cloud, blockchain & IoT to transform business, industries and the world. Let’s put smart to work.
+* [IBM News Room](https://twitter.com/IBMNews) - Official hub for all that's new + noteworthy about IBM's business, tech and people. Account follows IBM Social Computing Guidelines.
+
 
 ## Contributing
 
