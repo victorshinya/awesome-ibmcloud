@@ -243,6 +243,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [Taipei, Taiwan - IBM Cloud Taiwan](https://www.meetup.com/IBM-Cloud-Taiwan/) - 這是一個為想學習為#IBMCloud 的任何人所建的群組。您可能是＃IBMCloud的既有用戶，或從未曾接觸過＃IBMCloud。Meetup的主題包羅萬象, 且主要對象可能包涵開發者、管理員或是業務領袖。
 * [Tokyo, Japan - IBM Cloud - 東京 (Tokyo)](https://www.meetup.com/IBM-Cloud-東京-Tokyo) - このグループは、最新テクノロジーを活用して、ビジネスの拡大や、より良い世界を実現する事が目的です。このグループは、#IBMCloud　について学び、クラウドサービスをビジネスに活用したい全ての方が対象となります。　グループの参加者は新規、既存は問いません。　Meetupのトピックは、開発者や管理者、またはビジネスリーダー等の参加対象者によって異なり、様々なトピックについて活動します。このグループで想定しているテクノロジーのトピックとしては、クラウドプラットフォーム、Artificial Intelligence (AI/人工知能）、ブロクチェーン、分析、オートメーション、クラウドサービス/API、データサイエンス、イテグレーション、アプリケーション開発や、ガバナンス等です。
 * [Toronto, ON - IBM Cloud - Toronto](https://www.meetup.com/IBM-Cloud-Toronto/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
+* [Zürich, Switzerland - Quantum Computing Switzerland - Qool Stuff](https://www.meetup.com/Quantum-Computing-Switzerland-Qool-Stuff/) - In Switzerland there many things to discover: Mountains, Chocolate, Cheese Fondue, Quantum Computers, Trains, ... Wait Quantum? Yes! Join this MeetUp Group to hear and exchange about the latest and greatest news regarding Quantum Computers, Developer Platforms, Qiskit, Quantum Use Cases and many more Qool Stuff.
 
 ## Contributing
 
