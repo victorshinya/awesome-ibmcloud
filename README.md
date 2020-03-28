@@ -196,6 +196,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Meetups
 
+* [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/) - Bluetalks são meetups com discussões riquíssimas sobre tecnologia, inovação, empreendedorismo e diversidade. Abra sua mente para a disrupção e novas visões sobre temas atuais e mergulhe conosco de coração aberto.
 * [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
 
 ## Contributing
