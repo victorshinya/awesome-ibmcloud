@@ -196,6 +196,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Meetups
 
+* [Johannesburg, South Africa - IBM Cloud - South Africa](https://www.meetup.com/ZA-IBMCloud/) - Geared towards developers, architects, PaaS and Cloud Foundry enthusiasts, we learn about IBM Cloud through hands-on demo's and discussions.
 * [Santiago, Chile - IBM Cloud](https://www.meetup.com/meetup-group-fFKMjMnd/) - El objetivo de este grupo es ir mostrando capacidades de la plataforma IBM Cloud de una forma muy práctica dirigido estudiantes, desarrolladores, profesionales de IT y todos los entusiastas Cloud o que quieren aprender sobre estas interesantes materias (Cloud, DevOps, Virtualizacion, Watson, IoT, Data Science & Blockchain).
 * [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/) - Bluetalks são meetups com discussões riquíssimas sobre tecnologia, inovação, empreendedorismo e diversidade. Abra sua mente para a disrupção e novas visões sobre temas atuais e mergulhe conosco de coração aberto.
 * [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
