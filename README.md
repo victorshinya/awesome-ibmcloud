@@ -20,6 +20,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [Resources](#resources)
 - [YouTube Channels](#youtube-channels)
 - [Twitter Accounts](#twitter-accounts)
+- [Meetups](#meetups)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -192,6 +193,10 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Watson Health](https://twitter.com/IBMWatsonHealth) - Watson Health is Smarter Health – Using data, analytics and #IBM technologies and services to help make smarter health a reality.
 * [IBM Watson IoT](https://twitter.com/IBMIoT) - Intelligence is your greatest asset. Follow us for the latest on insightful #IIoT solutions using #AI. Official IBM #IoT, managed by @theRab & @graemeknows.
 * [IBM Watson Media](https://twitter.com/IBMWatsonMedia) - IBM Watson Media leverages industry-leading AI to uncover deep video insights, improve content value and performance, and deliver superior viewing experiences.
+
+## Meetups
+
+* [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
 
 ## Contributing
 
