@@ -16,7 +16,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [Infrastructure](#infrastructure)
 - [Platform](#platform)
 - [Serverless](#serverless)
-- [Watson](#watson)
+- [Data & AI](#data-&-ai)
 - [Resources](#resources)
 - [YouTube Channels](#youtube-channels)
 - [Twitter Accounts](#twitter-accounts)
@@ -97,7 +97,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
 
-## Watson
+## Data & AI
 
 *SDKs and code patterns with Watson services.*
 
