@@ -113,6 +113,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
 * [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
+* [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
 * [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service.
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services.
