@@ -109,6 +109,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
 * [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
+* [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
 * [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
 * [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
