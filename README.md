@@ -111,6 +111,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-fast-neural-style-transfer](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) - Generate a new image that mixes the content of a source image with the style of another image.
 * [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) - Detect humans in an image and estimate the pose for each person.
 * [max-image-caption-generator](https://github.com/IBM/MAX-Image-Caption-Generator) - IBM Code Model Asset Exchange: Show and Tell Image Caption Generator.
+* [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) - Adds color to black and white images.
 * [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
 * [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
