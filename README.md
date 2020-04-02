@@ -114,6 +114,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) - Adds color to black and white images.
 * [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
+* [max-inception-resnet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) - Identify objects in images using a third-generation deep residual network.
 * [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
 * [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
 * [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
