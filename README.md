@@ -108,6 +108,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) - A simple sample web application demonstrating the integration of Watson Tone Analyzer into Watson Assistant.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
 * [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
+* [max-fast-neural-style-transfer](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) - Generate a new image that mixes the content of a source image with the style of another image.
 * [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) - Detect humans in an image and estimate the pose for each person.
 * [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
