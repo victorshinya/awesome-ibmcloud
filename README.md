@@ -123,6 +123,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
 * [max-resnet-50](https://github.com/IBM/MAX-ResNet-50) - Identify objects in images using a first-generation deep residual network.
 * [max-review-text-generator](https://github.com/IBM/MAX-Review-Text-Generator) - Generate English-language text similar to the text in the Yelp® review data set.
+* [max-scene-classifier](https://github.com/IBM/MAX-Scene-Classifier) - Image classifier for physical places/locations, based on the Places365-CNN Model.
 * [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) - Converts spoken words into text form.
 * [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
 * [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
