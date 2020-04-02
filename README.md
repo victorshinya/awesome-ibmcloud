@@ -111,6 +111,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
 * [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
 * [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
+* [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
 * [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
 * [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
