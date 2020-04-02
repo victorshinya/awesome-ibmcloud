@@ -122,8 +122,8 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
 * [max-news-text-generator](https://github.com/IBM/MAX-News-Text-Generator) - Generate English-language text similar to the news articles in the One Billion Words data set.
 * [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
-* [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
 * [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
+* [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
 * [max-resnet-50](https://github.com/IBM/MAX-ResNet-50) - Identify objects in images using a first-generation deep residual network.
 * [max-review-text-generator](https://github.com/IBM/MAX-Review-Text-Generator) - Generate English-language text similar to the text in the Yelp® review data set.
