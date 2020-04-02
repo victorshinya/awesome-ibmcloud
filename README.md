@@ -115,6 +115,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
 * [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
 * [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
+* [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) - Converts spoken words into text form.
 * [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
 * [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
 * [max-toxic-comment-classifier](https://github.com/IBM/MAX-Toxic-Comment-Classifier) - Detect 6 types of toxicity in user comments.
