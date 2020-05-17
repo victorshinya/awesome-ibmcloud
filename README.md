@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 [![LICENSE](https://img.shields.io/badge/license-CC0%201.0-white.svg)](https://github.com/victorshinya/awesome-ibmcloud/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/victorshinya/awesome-ibmcloud/pulls)
+[![Build Status](https://travis-ci.org/victorshinya/awesome-ibmcloud.svg?branch=master)](https://travis-ci.org/victorshinya/awesome-ibmcloud)
 
 A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
 
