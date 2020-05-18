@@ -68,6 +68,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Cloud Foundry.*
 
+* [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
 * [go-cloud](https://github.com/victorshinya/go-cloud) - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 * [go-website](https://github.com/victorshinya/go-website) - Deploy your website using a Golang server.
