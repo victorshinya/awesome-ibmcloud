@@ -1,10 +1,20 @@
-hash: ce764581d52c84749058b6a96dbea86077980db0fc71a7d60a789ea0de666673
-updated: 2019-01-02T01:38:48.467714-02:00
+hash: 1a47b909cb67fd958bf2d45c5b3c2d2848a0519765d4fe62038d87539e309f24
+updated: 2020-05-17T16:20:54.728966-03:00
 imports:
+- name: github.com/andybalholm/cascadia
+  version: 903109d295d56a99095f2cfab0c2ca8d4b22f648
+- name: github.com/gomarkdown/markdown
+  version: 62c5e2c608cc00df84fdb74c8f84c8a4a4bc0c33
+  subpackages:
+  - ast
+  - html
+  - parser
 - name: github.com/gorilla/mux
   version: ef912dd76ebe9d9848c6e0fd80eaebccc9a11631
 - name: github.com/microcosm-cc/bluemonday
   version: 506f3da9b7c86d737e91f16b7431df8635871552
+- name: github.com/PuerkitoBio/goquery
+  version: 1b16b92ddf27ae338f7f162d5e4316b31bccdb8e
 - name: github.com/russross/blackfriday
   version: abafa45cd843f4f4935c29a2e8f3d73a01820fc3
 - name: github.com/sergi/go-diff

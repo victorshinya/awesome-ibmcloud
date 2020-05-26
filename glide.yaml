@@ -2,3 +2,8 @@ package: github.com/victorshinya/awesome-ibmcloud
 import:
 - package: github.com/gorilla/mux
 - package: github.com/shurcooL/github_flavored_markdown
+- package: github.com/gomarkdown/markdown
+- package: github.com/PuerkitoBio/goquery
+  version: v1.5.1
+- package: github.com/andybalholm/cascadia
+  version: ~1.2.0
