@@ -196,6 +196,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Developer Website](https://developer.ibm.com) - Global community of coders. Find open source programs, code patterns, articles, tutorials, and other contents.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method) - Foundational to the IBM Garage is a unique methodology that curates industry best practices layered with a depth of experience only IBM can bring. The IBM Garage combined with the IBM Garage Methodology can drive unprecedented transformational change.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
+* [My Catalog](http://mycatalog.mybluemix.net/) - An alternative unofficial view of the IBM Cloud catalog, particularly helpful for architects who want to get a powerful filter-based view.
 
 ## YouTube Channels
 
