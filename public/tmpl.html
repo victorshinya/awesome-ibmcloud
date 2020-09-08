@@ -6,27 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Awesome IBM Cloud</title>
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/carbon-components/css/carbon-components.min.css">
     <style>
         html, body {
-            margin: 0 auto;
-            padding: 0;
-            font-family: 'Roboto', sans-serif;
+            font-family: 'IBM Plex Sans', sans-serif;
             font-size: 1rem;
-            text-decoration: none;
         }
 
-        .content {
-            margin: 50px;
+        h1, p:first-of-type {
+            text-align: center;
         }
 
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+        h2 {
+            margin-top: 30px;
         }
 
-        p img {
+        p a img {
             display: inline-block;
         }
 
@@ -35,16 +31,7 @@
         }
 
         @media screen and (max-width: 600px) {
-            .content {
-                margin: 30px;
-            }
-
-            img {
-                width: 260px;
-                height: auto;
-            }
-
-            p img {
+            p a img {
                 width: auto;
                 height: 20px;
             }
@@ -52,17 +39,21 @@
     </style>
 </head>
 <body>
-    <div class="content">
+    <header aria-label="Awesome IBM Cloud" class="bx--header" role="banner">
+        <a href="#" class="bx--header__name">
+            <span class="bx--header__name--prefix">Awesome</span>&nbsp;IBM Cloud
+        </a>
+        <div class="bx--header__global">
+            <button aria-label="Github" class="bx--header__action" type="button" onclick="window.open('https://github.com/victorshinya/awesome-ibmcloud');" rel="external nofollow">
+                <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 32 32" aria-hidden="true" style="will-change: transform;"><path fill-rule="evenodd" d="M16 2a14 14 0 0 0-4.43 27.28c.7.13 1-.3 1-.67v-2.38c-3.89.84-4.71-1.88-4.71-1.88a3.71 3.71 0 0 0-1.62-2.05c-1.27-.86.1-.85.1-.85a2.94 2.94 0 0 1 2.14 1.45 3 3 0 0 0 4.08 1.16 2.93 2.93 0 0 1 .88-1.87c-3.1-.36-6.37-1.56-6.37-6.92a5.4 5.4 0 0 1 1.44-3.76 5 5 0 0 1 .14-3.7s1.17-.38 3.85 1.43a13.3 13.3 0 0 1 7 0c2.67-1.81 3.84-1.43 3.84-1.43a5 5 0 0 1 .14 3.7 5.4 5.4 0 0 1 1.44 3.76c0 5.38-3.27 6.56-6.39 6.91a3.33 3.33 0 0 1 .95 2.59v3.84c0 .46.25.81 1 .67A14 14 0 0 0 16 2z"></path></svg>
+            </button>
+            <button aria-label="Twitter" class="bx--header__action" type="button" onclick="window.open('https://twitter.com/victorshinya');" rel="external nofollow">
+                <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 32 32" aria-hidden="true" style="will-change: transform;"><path d="M11.92 24.94A12.76 12.76 0 0 0 24.76 12.1v-.59A9.4 9.4 0 0 0 27 9.18a9.31 9.31 0 0 1-2.59.71 4.56 4.56 0 0 0 2-2.5 8.89 8.89 0 0 1-2.86 1.1 4.52 4.52 0 0 0-7.7 4.11 12.79 12.79 0 0 1-9.3-4.71 4.51 4.51 0 0 0 1.4 6 4.47 4.47 0 0 1-2-.56v.05a4.53 4.53 0 0 0 3.55 4.45 4.53 4.53 0 0 1-2 .08A4.51 4.51 0 0 0 11.68 21a9.05 9.05 0 0 1-5.61 2A9.77 9.77 0 0 1 5 22.91a12.77 12.77 0 0 0 6.92 2"></path></svg>
+            </button>
+        </div>
+    </header>
+    <main class="bx--content">
         {{.Body}}
-    </div>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133426833-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-133426833-1');
-    </script>
+    </main>
 </body>
 </html>
