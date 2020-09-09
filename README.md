@@ -42,6 +42,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) - Carbon icons, in Angular!
 - [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) - Svelte components for icons in digital and software products using the Carbon Design System.
 - [carbon-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website.
+- [carbon-sandbox](https://github.com/carbon-design-system/carbon-sandbox) - A theme playground for Carbon Components.
 - [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
 - [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
 - [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
