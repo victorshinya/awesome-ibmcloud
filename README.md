@@ -72,6 +72,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [ibm-spectrum-scale-cloud-install](https://github.com/IBM/ibm-spectrum-scale-cloud-install) - Cloud Resource Provisioning framework for IBM Spectrum Scale.
 - [lamp-terraform-ibm](https://github.com/IBM-Cloud/LAMP-terraform-ibm) - Automate deployment of environments using Infrastructure as Code.
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
+- [vision-terraform](https://github.com/IBM/vision-terraform) - IBM Visual Insights sample terraform templates for deployment in IBM Cloud (formerly IBM PowerAI Vision).
 
 ## Platform
 
