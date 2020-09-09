@@ -44,6 +44,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
 - [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme.
+- [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) - IBM.com library based on the Carbon Design System for IBM.
 - [ibm-dotcom-library-website](https://github.com/carbon-design-system/ibm-dotcom-library-website) - This is the IBM.com Library website, which includes documentation and guidelines around design and development for IBM.com.
 - [ibm-security](https://github.com/carbon-design-system/ibm-security) - A Carbon experience framework built by IBM Security.
 
