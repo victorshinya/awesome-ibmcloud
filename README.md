@@ -43,6 +43,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) - Svelte components for icons in digital and software products using the Carbon Design System.
 - [carbon-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website.
 - [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
+- [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
 - [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
 - [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme.
