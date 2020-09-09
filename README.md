@@ -68,6 +68,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Softlayer.*
 
+- [lamp-terraform-ibm](https://github.com/IBM-Cloud/LAMP-terraform-ibm) - Automate deployment of environments using Infrastructure as Code.
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
 
 ## Platform
