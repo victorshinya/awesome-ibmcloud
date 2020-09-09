@@ -35,6 +35,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [carbon-badges](https://github.com/carbon-design-system/carbon-badges) - A site to apply for Carbon badges.
 - [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
 - [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+- [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System.
 - [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
 - [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
