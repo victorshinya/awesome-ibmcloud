@@ -92,6 +92,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
   - [r-buildpack](https://github.com/cloudfoundry/r-buildpack) - Cloud Foundry buildpack for R.
   - [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) - Cloud Foundry buildpack for Ruby, Sinatra and Rails.
   - [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) - Deploy static HTML/JS/CSS apps to Cloud Foundry.
+- [cloud-pak](https://github.com/IBM/cloud-pak) - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
 - [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
 - [go-cloud](https://github.com/victorshinya/go-cloud) - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 - [go-website](https://github.com/victorshinya/go-website) - Deploy your website using a Golang server.
