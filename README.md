@@ -59,6 +59,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Command Line Tools for MacOS, Windows and Linux.*
 
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry.
+- [The Kui Framework for Graphical Terminals](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development.
 - [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 - [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical*- Collection of different Docker Containers to interface with IBM Cloud.
 - [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
