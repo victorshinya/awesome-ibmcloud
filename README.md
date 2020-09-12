@@ -138,6 +138,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [max-audio-classifier](https://github.com/IBM/MAX-Audio-Classifier) - Identify sounds in short audio clips.
 - [max-audio-embedding-generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files.
 - [max-audio-sample-generator](https://github.com/IBM/MAX-Audio-Sample-Generator) - Generate short audio clips of speech commands and lo-fi instrumental samples.
+- [max-base](https://github.com/IBM/MAX-Base) - This is a base image for IBM Model Asset Exchange.
 - [max-breast-cancer-mitosis-detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) - Detect whether a mitosis exists in an image of breast cancer tumor cells.
 - [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
 - [max-fast-neural-style-transfer](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) - Generate a new image that mixes the content of a source image with the style of another image.
