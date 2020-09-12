@@ -78,6 +78,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Cloud Foundry.*
 
+- [charts](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 - [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
   - [binary-buildpack](https://github.com/cloudfoundry/binary-buildpack) - Deploy binaries to Cloud Foundry.
   - [dotnet-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack) - Cloud Foundry buildpack for .NET Core on Linux.
