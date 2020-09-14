@@ -69,6 +69,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Softlayer.*
 
+- [cloudland](https://github.com/IBM/cloudland) - Cloudland, a light weight infrastructure as a service project, plus OpenShift 4 platform as a service deployment engine, is a system framework to manage VM instances, software defined networks (SDN), volumes.
 - [cp4d-deployment](https://github.com/IBM/cp4d-deployment) - These terraform scripts are developed to deploy CloudPakforData on the public cloud.
 - [ibm-spectrum-scale-cloud-install](https://github.com/IBM/ibm-spectrum-scale-cloud-install) - Cloud Resource Provisioning framework for IBM Spectrum Scale.
 - [lamp-terraform-ibm](https://github.com/IBM-Cloud/LAMP-terraform-ibm) - Automate deployment of environments using Infrastructure as Code.
