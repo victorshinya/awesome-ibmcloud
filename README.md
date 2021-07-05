@@ -58,11 +58,12 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Command Line Tools for MacOS, Windows and Linux.*
 
+- [IBM Cloud Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry.
 - [The Kui Framework for Graphical Terminals](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development.
 - [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 - [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical*- Collection of different Docker Containers to interface with IBM Cloud.
-- [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
+- [bxshell](https://github.com/l2fprod/bxshell/): All the IBM Cloud tools I need in one Docker image and a few shell scripts
 - [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
 
 ## Infrastructure
@@ -120,11 +121,15 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Serverless
 
-*Deploy and manage your actions/functions with IBM Cloud Functions, an Apache OpenWhisk base on IBM Cloud.*
+*Deploy and manage your actions/functions with IBM Cloud Functions, based on Apache OpenWhisk, on IBM Cloud.*
 
 - [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
 - [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 - [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
+
+*IBM Cloud Code Engine*
+- [IBM Cloud Code Engine](https://www.ibm.com/cloud/code-engine): Run your container, application code or batch job on a fully managed container runtime
+- [Serverless web app and eventing for data retrieval and analytics](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-serverless-github-traffic-analytics): Tutorial showing how to use Code Engine for retrieving and analyzing GitHub traffic stats
 
 ## Data & AI
 
@@ -202,7 +207,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [Enterprise Design Thinking](https://www.ibm.com/design/thinking/) - Apply design thinking to complex teams, problems, and organizations.
 - [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview?topic=overview-whatis-platform) - What is the IBM Cloud platform?
 - [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures) - IBM's architectures provide practices for building apps on the cloud. The reference architectures define the basic pattern, while implementations provide specific technology, practices, and tool choices to build and deploy that pattern.
-- [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
+- [IBM Cloud Blog](https://www.ibm.com/cloud/blog) - How-tos, news, and announcements for IBM Cloud.
 - [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
 - [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 - [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
