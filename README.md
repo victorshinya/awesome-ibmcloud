@@ -15,7 +15,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 - [Infrastructure](#infrastructure)
 - [Platform](#platform)
 - [Serverless](#serverless)
-- [Data & AI](#data-&-ai)
+- [Data & AI](#data--ai)
 - [Resources](#resources)
 - [YouTube Channels](#youtube-channels)
 - [Twitter Accounts](#twitter-accounts)
